@@ -1,0 +1,21 @@
+{
+  orders:[
+        {
+            "idStr":"idStr"
+            "eventType":"helpClass"
+            "helpClass":{
+                        "pulblishTime":"2013-04-30 15:20:23"
+                        "fee":"16"
+                        "titleText":"sa俄  sa"
+                        "classTime":"2015-04-20 13:23:30"
+                        "roomLocation":"s俄 a sa"
+                        "className":"sa俄  sa"
+                        "note":"sadsa sa"
+                        "user":{
+                                "nickName":"sa但是飞a sa"
+                                "profileImageUrl":"sa  sa"
+                                "titleText":"sa俄a sa"
+                               }
+                        }
+        }
+}
